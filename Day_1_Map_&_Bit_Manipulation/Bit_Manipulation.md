@@ -1,4 +1,4 @@
-# Bit Manipulation — Striver Course Revision Notes (Placement Oriented)
+# Bit Manipulation — (Placement Oriented)
 
 ---
 
